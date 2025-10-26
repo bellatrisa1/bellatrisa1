@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Bella.
 
-## I'm a frontend developer passionate about modern web technologies, design, and UX 🌿
+### I'm a frontend developer passionate about modern web technologies, design, and UX 🌿
 
 ### 🛠️ My Tech Stack
 
