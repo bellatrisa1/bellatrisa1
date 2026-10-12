@@ -1,6 +1,7 @@
+
 # Hi there 👋 My name is Bella.
 
-### I'm a frontend developer passionate about modern web technologies, design, and UX 🌿
+### I'm a Frontend / Full-stack Developer passionate about modern web technologies, software architecture, design, and UX 🌿
 
 ### 🛠️ My Tech Stack
 
@@ -15,8 +16,19 @@
 [![Vite](https://img.shields.io/badge/Vite-2.x--6.2-orange)](https://vitejs.dev)
 [![Redux](https://img.shields.io/badge/Redux-4.x--Toolkit_2.6-764ABC)](https://redux-toolkit.js.org)
 [![Node.js](https://img.shields.io/badge/Node.js-14.x--22.14-green)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/Express.js-Backend_Framework-404D59)](https://expressjs.com)
 [![REST API](https://img.shields.io/badge/REST_API-Design-blueviolet)](https://restfulapi.net)
 [![WebSocket](https://img.shields.io/badge/WebSocket-Realtime-010101)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+[![JWT](https://img.shields.io/badge/JWT-Authentication-000000)](https://jwt.io)
+[![HTTP Cookies](https://img.shields.io/badge/HTTP_Cookies-Session_Management-8A2BE2)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+[![Zod](https://img.shields.io/badge/Zod-Schema_Validation-3068B7)](https://zod.dev)
+[![Axios](https://img.shields.io/badge/Axios-HTTP_Client-5A29E4)](https://axios-http.com)
+[![SQL](https://img.shields.io/badge/SQL-Database_Queries-4479A1)](https://www.postgresql.org/docs/current/sql.html)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-11--17-336791)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB/Mongoose-5.x--8.13-47A248)](https://mongoosejs.com)
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-Media_Management-3448C5)](https://cloudinary.com)
+[![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-Integration-26A5E4)](https://core.telegram.org/bots/api)
+[![Python](https://img.shields.io/badge/Python-Programming-3776AB)](https://www.python.org)
 [![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26)](https://developer.mozilla.org/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-Style-1572B6)](https://developer.mozilla.org/docs/Web/CSS)
 [![SASS/SCSS](https://img.shields.io/badge/SASS/SCSS-Preprocessor-CC6699)](https://sass-lang.com)
@@ -28,6 +40,8 @@
 [![Babel](https://img.shields.io/badge/Babel-6.x--7.27-F9DC3E)](https://babeljs.io)
 [![Prettier](https://img.shields.io/badge/Prettier-1.x--3.5-F7B93E)](https://prettier.io)
 [![ESLint](https://img.shields.io/badge/ESLint-6.x--9.25-4B32C3)](https://eslint.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB/Mongoose-5.x--8.13-47A248)](https://mongoosejs.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-11--17-336791)](https://www.postgresql.org)
+[![Vitest](https://img.shields.io/badge/Vitest-Unit_Testing-6E9F18)](https://vitest.dev)
+[![Playwright](https://img.shields.io/badge/Playwright-E2E_Testing-2EAD33)](https://playwright.dev)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployment-000000)](https://vercel.com)
+[![Render](https://img.shields.io/badge/Render-Cloud_Deployment-46E3B7)](https://render.com)
 [![GIT](https://img.shields.io/badge/GIT-Version_Control-F05032)](https://git-scm.com)
